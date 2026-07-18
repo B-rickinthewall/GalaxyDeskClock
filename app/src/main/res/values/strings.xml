@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Galaxy Desk Clock</string>
+    <string name="admin_description">Allows the desk clock to lock the screen immediately when charging stops.</string>
+</resources>

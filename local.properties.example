@@ -1,0 +1,2 @@
+# Copy this file to local.properties and update the path only when building outside Android Studio.
+sdk.dir=/Users/YOUR_NAME/Library/Android/sdk
